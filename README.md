@@ -20,7 +20,7 @@ I am an experienced Data Analyst with a robust engineering background and over 3
   - Created SQL and Looker-based dashboards for patients and clinicians, enhancing productivity for sales and finance teams.
 
 #### Data Analyst, Lead | Knowde | Bangalore, India | 10/2020 - 09/2023
-- **Tools:** SQL, Power BI, DAX
+- **Tools:** SQL, Power BI, DAX, Excel, Google sheet
 - **Responsibilities:**
   - Managed the integration of chemical distributors into the e-commerce platform using Agile and JIRA Scrum.
   - Enhanced customer satisfaction through SQL-driven alternate product recommendations.
